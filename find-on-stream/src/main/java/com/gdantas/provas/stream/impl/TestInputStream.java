@@ -4,7 +4,7 @@ import com.gdantas.provas.stream.iface.Stream;
 
 /**
  * 
- * @author Glauber M. Dantas (glauber.md@gmail.com)
+ * @author Glauber M. Dantas glauber.md@gmail.com)
  *
  */
 public class TestInputStream implements Stream {
